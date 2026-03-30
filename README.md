@@ -15,7 +15,8 @@ python server.py
 ## Alternitively
 
 ```Go to where the file is located
-Run server.py```
+Run server.py
+```
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
